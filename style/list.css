@@ -1,0 +1,45 @@
+.list1 a:link {
+    text-decoration: none;
+    color: white;
+}
+
+.list1 a:visited {
+    color: #D3A4FF;
+}
+
+.list1 a:hover {
+    font-weight: 700;
+}
+
+.list1 a:active {
+    border: 3px double white;
+    padding: 2px 5px;
+}
+
+.list2 {
+    list-style-type: circle;
+}
+
+.list3 {
+    list-style-type: none;
+    list-style-image: url(../img/heart.png);
+    margin: auto 0;
+}
+
+.list4 a:link {
+    text-decoration: none;
+    color: black;
+}
+
+.list4 a:visited {
+    color: black;
+}
+
+.list4 a:hover {
+    color: #D3A4FF;
+}
+
+.list4 a:active {
+    font-weight: 400;
+    ;
+}

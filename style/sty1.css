@@ -1,0 +1,150 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.bkgset1 {
+    background-color: #272727;
+}
+
+.pad1 {
+    padding: 10px 0 10px 35px;
+}
+
+.pad2 {
+    padding: 10px 0 10px 20px;
+}
+
+.img1 {
+    width: 400px;
+    border: 3px dashed black;
+}
+
+.fig1 {
+    width: 406px;
+    border: 1px solid grey;
+    padding: 20px 20px 0px 20px;
+    margin: 20px 20px 0px 0px;
+    float: left;
+}
+
+.box1 {
+    width: 200px;
+}
+
+.box2 {
+    width: 800px;
+    /* border: 16px dotted #E6E6F2; */
+    border: 16px dotted #D3A4FF;
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 8px;
+    /* 第二種整篇文章置中的寫法
+    margin: 0 auto; */
+}
+
+.box11 {
+    border-bottom: 3px dashed #D3A4FF;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+
+.flex0 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.flex1 {
+    display: flex;
+    justify-content: center;
+}
+
+.flex2 {
+    display: block;
+}
+
+.format1 {
+    font-family: 標楷體;
+    font-weight: 100;
+    padding-top: 20px;
+    padding-left: 10px;
+    color: white;
+}
+
+.format2 {
+    font-size: 25px;
+    padding: 20px 0px;
+    text-decoration: underline;
+}
+
+.format3 {
+    padding-top: 20px;
+}
+
+.format4 {
+    font-size: 18px;
+    padding-top: 20px;
+    text-decoration: underline;
+    font-weight: bolder;
+}
+
+.format5 {
+    background-color: white;
+    border-radius: 10px;
+    font-family: 標楷體;
+    font-weight: 600;
+    padding: 5px 15px;
+    margin: 20px 10px 300px 10px;
+    text-align: center;
+}
+
+/* 給"加入我們"所設定的 */
+.format6 {
+    font-family: 標楷體;
+    color: white;
+}
+
+.format7 {
+    color: white;
+    background-color: #006000;
+    border: 6px solid #BB5E00;
+    padding: 10px;
+}
+
+/* 給"加入我們"所設定的 */
+.posit1 {
+    /* position: absolute;
+    bottom: 30px;
+    left: 50px; */
+    margin: 10px auto;
+    text-align: center;
+}
+
+.posit2 {
+    position: fixed;
+    top: 25%;
+    right: 15px;
+}
+
+
+/* .center {
+    width: 80px;
+    margin: 0 2px;
+    text-align: center;
+
+} */
+
+
+/* .box {
+    display: flex;
+    justify-content: center;
+} */
+
+/* .button {
+    width: 80px;
+    padding: 10px;
+    background-color: beige;
+    text-align: center;
+    margin: 0 auto;
+
+} */
